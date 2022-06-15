@@ -9,7 +9,6 @@ import filetype
 import io
 import logging
 import re
-import shutup
 import time
 import warnings
 from typing import Optional
@@ -63,8 +62,6 @@ class RSS(commands.Cog):
         self._read_feeds_loop = None
 
         self._headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0"}
-
-        shutup.please()
 
     async def red_delete_data_for_user(self, **kwargs):
         """Nothing to delete"""
