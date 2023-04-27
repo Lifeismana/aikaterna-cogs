@@ -1,6 +1,7 @@
 {
     "author": ["aikaterna", "fishyfing"],
     "description": "Check timezones, user times, or times in specific places. Originally made by Fishyfing.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Check times for users and places.",
     "tags": ["time", "timezone"],
     "requirements": ["pytz"],

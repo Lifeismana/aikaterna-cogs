@@ -2,6 +2,7 @@
     "author": ["aikaterna"],
     "description": "Pay respects to a thing or user by pressing f.",
     "install_msg": "Thanks for installing, have fun.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Press f to pay respects.",
     "tags": ["f", "pressf", "respects"],
     "type": "COG",

@@ -2,6 +2,7 @@
     "author": ["aikaterna"],
     "description": "Dev tool to display the content of an embed.",
     "install_msg": "Thanks for installing.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Dev tool to display the content of an embed.",
     "tags": ["embed"],
     "type": "COG",

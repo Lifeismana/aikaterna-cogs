@@ -2,6 +2,7 @@
     "author": ["aikaterna", "themario30"],
     "description": "Play the Luigi Poker minigame from New Super Mario Brothers.",
     "install_msg": "Thanks for installing.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "A Luigi poker minigame.",
     "tags": ["poker", "game"],
     "type": "COG",

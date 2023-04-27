@@ -2,6 +2,7 @@
     "author": ["aikaterna"],
     "description": "Trick or treating for your server.",
     "install_msg": "Thanks for installing. Use `[p]help TrickOrTreat` to get started, specifically by toggling it on in your server and then setting active trick or treating channels.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Trick or treat.",
     "tags": ["trick or treat", "candy", "pick", "halloween"],
     "type": "COG",

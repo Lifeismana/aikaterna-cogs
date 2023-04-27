@@ -1,6 +1,7 @@
 {
     "author": ["aikaterna"],
     "install_msg": "Thanks for installing. Please read the help for the `massunban` command to get started, once you have loaded the cog.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Mass unban users.",
     "description": "Mass unban users by the ban reason used.",
     "tags": ["unban"]

@@ -2,6 +2,7 @@
     "author": ["aikaterna"],
     "description": "It's ping... with latency. Shows all shards.",
     "install_msg": "Thanks for installing, have fun.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Ping pong.",
     "tags": ["ping", "pingtime", "latency"],
     "type": "COG",

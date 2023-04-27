@@ -2,6 +2,7 @@
     "author": ["UltimatePancake", "aikaterna"],
     "description": "Gets definitions, antonyms, or synonyms for given words",
     "install_msg": "After loading the cog with `[p]load dictionary`, use [p]help Dictionary to view commands.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Gets definitions, antonyms, or synonyms for given words",
     "tags": ["dictionary", "synonym", "antonym"],
     "requirements": ["beautifulsoup4"],

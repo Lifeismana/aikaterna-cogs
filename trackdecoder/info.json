@@ -2,6 +2,7 @@
     "author": ["aikaterna", "devoxin#0001"],
     "description": "Utility cog for decoding b64 encoded Lavalink Track strings.",
     "install_msg": "Thanks for installing.",
+    "min_bot_version": "3.5.0.dev0",
     "short": "Utility cog for decoding b64 encoded Lavalink Track strings.",
     "tags": ["lavalink"],
     "type": "COG",
